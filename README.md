@@ -8,7 +8,7 @@
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)
 ![C](https://img.shields.io/badge/--05122A?style=flat&logo=c)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benex254&show_icons=true&theme=radical&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benex254&show_icons=true&theme=radical&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools
 
